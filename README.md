@@ -9,6 +9,6 @@ dealing with staffing-related issues and understanding what and when they should
 
 Programming Languages: Python
 
-Tools/Libraries: Jupyter Notebook, Pandas, NumPy, Matplotlib
+Tools/Libraries: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn
 
 Dataset(Kaggle): https://www.kaggle.com/mchirico/montcoalert
