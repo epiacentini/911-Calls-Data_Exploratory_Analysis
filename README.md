@@ -1,5 +1,9 @@
 # 911 Calls Data Exploratory Analysis
 
+IMPORTANT NOTE:
+If the notebook is not loading in Github it can alternatively be viewed on this link via nbviewer.
+https://nbviewer.jupyter.org/github/epiacentini/911-Calls-Data_Exploratory_Analysis/blob/main/911_Calls_Data_Exploration.ipynb
+
 Exploratory Analysis of a dataset related to 911 calls made in Montgomery County, PA.
 Pre-processing and feature engineering raw data set to be able to make valuable insights.
 Make useful discoveries such as most frequent reasons for calls, mapping what time of day the most calls 
